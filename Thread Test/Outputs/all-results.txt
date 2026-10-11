@@ -1,0 +1,428 @@
+===== THREAD SAFE RESULTS (TRUE) ===== 
+Student: Samir
+Threads: 1
+Increments per thread: 1000
+Mode: Thread-safe
+Expected count: 1000
+Static count: 1000
+Non-static total: 1000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 2
+Increments per thread: 10000
+Mode: Thread-safe
+Expected count: 20000
+Static count: 20000
+Non-static total: 20000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 5
+Increments per thread: 10000
+Mode: Thread-safe
+Expected count: 50000
+Static count: 50000
+Non-static total: 50000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 10
+Increments per thread: 50000
+Mode: Thread-safe
+Expected count: 500000
+Static count: 500000
+Non-static total: 500000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 20
+Increments per thread: 50000
+Mode: Thread-safe
+Expected count: 1000000
+Static count: 1000000
+Non-static total: 1000000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 50
+Increments per thread: 50000
+Mode: Thread-safe
+Expected count: 2500000
+Static count: 2500000
+Non-static total: 2500000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 100
+Increments per thread: 50000
+Mode: Thread-safe
+Expected count: 5000000
+Static count: 5000000
+Non-static total: 5000000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+===== TC1 FALSE ===== 
+Student: Samir
+Threads: 1
+Increments per thread: 1000
+Mode: Unsafe
+Expected count: 1000
+Static count: 1000
+Non-static total: 1000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 1
+Increments per thread: 1000
+Mode: Unsafe
+Expected count: 1000
+Static count: 1000
+Non-static total: 1000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 1
+Increments per thread: 1000
+Mode: Unsafe
+Expected count: 1000
+Static count: 1000
+Non-static total: 1000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 1
+Increments per thread: 1000
+Mode: Unsafe
+Expected count: 1000
+Static count: 1000
+Non-static total: 1000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+Student: Samir
+Threads: 1
+Increments per thread: 1000
+Mode: Unsafe
+Expected count: 1000
+Static count: 1000
+Non-static total: 1000
+Absolute difference: 0
+Percentage difference: 0.00%
+ 
+===== TC2 FALSE ===== 
+Student: Samir
+Threads: 2
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 20000
+Static count: 15873
+Non-static total: 20000
+Absolute difference: 4127
+Percentage difference: 20.64%
+ 
+Student: Samir
+Threads: 2
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 20000
+Static count: 13856
+Non-static total: 20000
+Absolute difference: 6144
+Percentage difference: 30.72%
+ 
+Student: Samir
+Threads: 2
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 20000
+Static count: 18150
+Non-static total: 20000
+Absolute difference: 1850
+Percentage difference: 9.25%
+ 
+Student: Samir
+Threads: 2
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 20000
+Static count: 16052
+Non-static total: 20000
+Absolute difference: 3948
+Percentage difference: 19.74%
+ 
+Student: Samir
+Threads: 2
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 20000
+Static count: 14656
+Non-static total: 20000
+Absolute difference: 5344
+Percentage difference: 26.72%
+ 
+===== TC3 FALSE ===== 
+Student: Samir
+Threads: 5
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 50000
+Static count: 20702
+Non-static total: 50000
+Absolute difference: 29298
+Percentage difference: 58.60%
+ 
+Student: Samir
+Threads: 5
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 50000
+Static count: 15883
+Non-static total: 50000
+Absolute difference: 34117
+Percentage difference: 68.23%
+ 
+Student: Samir
+Threads: 5
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 50000
+Static count: 17746
+Non-static total: 50000
+Absolute difference: 32254
+Percentage difference: 64.51%
+ 
+Student: Samir
+Threads: 5
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 50000
+Static count: 19475
+Non-static total: 50000
+Absolute difference: 30525
+Percentage difference: 61.05%
+ 
+Student: Samir
+Threads: 5
+Increments per thread: 10000
+Mode: Unsafe
+Expected count: 50000
+Static count: 19861
+Non-static total: 50000
+Absolute difference: 30139
+Percentage difference: 60.28%
+ 
+===== TC4 FALSE ===== 
+Student: Samir
+Threads: 10
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 500000
+Static count: 73048
+Non-static total: 500000
+Absolute difference: 426952
+Percentage difference: 85.39%
+ 
+Student: Samir
+Threads: 10
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 500000
+Static count: 70080
+Non-static total: 500000
+Absolute difference: 429920
+Percentage difference: 85.98%
+ 
+Student: Samir
+Threads: 10
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 500000
+Static count: 82233
+Non-static total: 500000
+Absolute difference: 417767
+Percentage difference: 83.55%
+ 
+Student: Samir
+Threads: 10
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 500000
+Static count: 72978
+Non-static total: 500000
+Absolute difference: 427022
+Percentage difference: 85.40%
+ 
+Student: Samir
+Threads: 10
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 500000
+Static count: 78070
+Non-static total: 500000
+Absolute difference: 421930
+Percentage difference: 84.39%
+ 
+===== TC5 FALSE ===== 
+Student: Samir
+Threads: 20
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 1000000
+Static count: 120638
+Non-static total: 1000000
+Absolute difference: 879362
+Percentage difference: 87.94%
+ 
+Student: Samir
+Threads: 20
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 1000000
+Static count: 136624
+Non-static total: 1000000
+Absolute difference: 863376
+Percentage difference: 86.34%
+ 
+Student: Samir
+Threads: 20
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 1000000
+Static count: 107743
+Non-static total: 1000000
+Absolute difference: 892257
+Percentage difference: 89.23%
+ 
+Student: Samir
+Threads: 20
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 1000000
+Static count: 117654
+Non-static total: 1000000
+Absolute difference: 882346
+Percentage difference: 88.23%
+ 
+Student: Samir
+Threads: 20
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 1000000
+Static count: 115326
+Non-static total: 1000000
+Absolute difference: 884674
+Percentage difference: 88.47%
+ 
+===== TC6 FALSE ===== 
+Student: Samir
+Threads: 50
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 2500000
+Static count: 633891
+Non-static total: 2500000
+Absolute difference: 1866109
+Percentage difference: 74.64%
+ 
+Student: Samir
+Threads: 50
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 2500000
+Static count: 507402
+Non-static total: 2500000
+Absolute difference: 1992598
+Percentage difference: 79.70%
+ 
+Student: Samir
+Threads: 50
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 2500000
+Static count: 595922
+Non-static total: 2500000
+Absolute difference: 1904078
+Percentage difference: 76.16%
+ 
+Student: Samir
+Threads: 50
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 2500000
+Static count: 551991
+Non-static total: 2500000
+Absolute difference: 1948009
+Percentage difference: 77.92%
+ 
+Student: Samir
+Threads: 50
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 2500000
+Static count: 513263
+Non-static total: 2500000
+Absolute difference: 1986737
+Percentage difference: 79.47%
+ 
+===== TC7 FALSE ===== 
+Student: Samir
+Threads: 100
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 5000000
+Static count: 1849524
+Non-static total: 5000000
+Absolute difference: 3150476
+Percentage difference: 63.01%
+ 
+Student: Samir
+Threads: 100
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 5000000
+Static count: 894349
+Non-static total: 5000000
+Absolute difference: 4105651
+Percentage difference: 82.11%
+ 
+Student: Samir
+Threads: 100
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 5000000
+Static count: 1999341
+Non-static total: 5000000
+Absolute difference: 3000659
+Percentage difference: 60.01%
+ 
+Student: Samir
+Threads: 100
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 5000000
+Static count: 1102834
+Non-static total: 5000000
+Absolute difference: 3897166
+Percentage difference: 77.94%
+ 
+Student: Samir
+Threads: 100
+Increments per thread: 50000
+Mode: Unsafe
+Expected count: 5000000
+Static count: 2034960
+Non-static total: 5000000
+Absolute difference: 2965040
+Percentage difference: 59.30%
+ 
