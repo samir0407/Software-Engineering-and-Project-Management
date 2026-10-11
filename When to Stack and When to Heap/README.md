@@ -1,27 +1,21 @@
 
 # Java Lab Assignment: Stack and Heap Memory
 
-## Problem 1: Student Class
-- Instance variable: `age`
-- Local variable: `marks`
-- Object identity hash code
+## Stack Memory
+- Stores method frames.
+- Local variables are associated with method execution.
+- Each method call uses a stack frame.
 
-## Problem 2: Employee Class
-- Instance variable: `salary`
-- Local variable: `bonus`
-- Local inner class: `Report`
-- Stack frames and Heap objects
+## Heap Memory
+- Stores objects created at runtime.
+- Instance variables are part of their objects.
+- Objects are created using the `new` keyword.
 
-## Technologies
-- Java
-- JDK
-- CMD
-
-## How to Run
-```bash
-javac Main.java
-java Main
-```
+## Examples
+- `age` and `salary` → Instance variables
+- `marks` and `bonus` → Local variables
+- `Student`, `Employee`, and `Report` objects → Heap
+- `display()` and `show()` → Method execution frames
 
 ## Conclusion
-This assignment demonstrates Stack Memory, Heap Memory, variables, objects, and inner classes in Java.
+This assignment demonstrates the differences between Stack Memory and Heap Memory in Java.
