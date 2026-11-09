@@ -239,10 +239,3 @@ After completing this project, students will be able to:
 
 ---
 
-# 🔗 GitHub Repository
-
-```text
-https://github.com/your-username/your-repository/tree/main/SamirWhiz
-```
-
-Replace the above URL with your actual GitHub repository link.
