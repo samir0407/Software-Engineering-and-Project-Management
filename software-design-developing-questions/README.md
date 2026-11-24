@@ -1,9 +1,13 @@
 # Software Design: Developing Questions
 
 **Course:** Software Engineering (SE)
+
 **Topic:** Software Design (Design Fundamentals, Architecture, Design Patterns, UI Design)
+
 **Prepared by:** MD. Samir Tahrian, ID: IT-24007
+
 **Department:** Information and Communication Technology (ICT), Mawlana Bhashani Science and Technology University (MBSTU), Santosh, Tangail
+
 **Source material:** *SoftEng-Design.pdf* (155 slides)
 
 ---
