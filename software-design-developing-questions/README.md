@@ -42,31 +42,43 @@
 ## 3. Questions (Answer ALL questions. Each question carries 5 marks.)
 
 **Q1.** (a) What is software design? What is the input of the design process? *(2)*
+
 (b) Distinguish between architectural design and detailed design. *(1.5)*
+
 (c) What is the outcome of the design process? Why is the rationale of each non-trivial decision recorded? *(1.5)*
 
 **Q2.** (a) What is modularity and decomposition in software design? *(1)*
+
 (b) Define coupling and cohesion. Why do we want low coupling and high cohesion? *(2)*
+
 (c) List the types of coupling (from low to high) and the types of cohesion (from low to high) with a short description of each. *(2)*
 
 **Q3.** (a) Explain abstraction, encapsulation and information hiding. *(2)*
+
 (b) How is the quality of a software design assessed? Explain any three Chidamber and Kemerer (CK) metrics from the following and state what each measures: CBO, LCOM, WMC, RFC, DIT, NOC. *(3)*
 
 **Q4.** (a) Define software architecture. *(1)*
+
 (b) Explain any three of the following architectural styles with the role of their components: Layered, Event-based, Model-View-Controller (MVC), Blackboard/Repository, Pipes and Filters. *(4)*
 
 **Q5.** (a) Name the three layers of an enterprise application and state the responsibility of each. *(1.5)*
+
 (b) Explain the Domain Model, Service Layer and Data Mapper patterns (what each one is and when it is used). *(2)*
+
 (c) Describe the three ways of mapping an inheritance hierarchy to database tables: Single Table, Class Table and Concrete Table Inheritance. *(1.5)*
 
 **Q6.** (a) What is a design pattern? Name the three categories of GoF patterns with two examples of each. *(1.5)*
+
 (b) Explain the Factory Method pattern: intent, participants and one benefit. *(1.5)*
+
 (c) State the intent of the Prototype and Singleton patterns, and one liability of each. *(2)*
 
 **Q7.** Explain **any two** of the following patterns: Strategy, Template Method, Adapter, Composite, Facade, Command, Decorator, Observer. For each pattern write: (i) intent, (ii) main participants, (iii) one benefit and one liability. *(2.5 + 2.5)*
 
 **Q8.** (a) List and briefly explain any four UI design principles. *(2)*
+
 (b) Name and explain any three UI interaction modalities (for example question-answer, direct manipulation, menu selection, form fill-in, command language, natural language). *(2)*
+
 (c) State any two guidelines for using colour in presenting information to users. *(1)*
 
 ---
