@@ -1,0 +1,13 @@
+Part E: Reflection Answers
+
+1. Why is Runtime Retention important for custom annotations?
+
+Runtime retention makes annotations available while the program is running. It allows Java Reflection to read annotation information and use it for automatic tasks such as validation, component scanning, and routing.
+
+2. How does CampusBoot demonstrate the basic idea of Spring Boot?
+
+CampusBoot uses annotations and Reflection to automate common tasks. It can register components, inject configuration values, validate data, and handle routes without doing everything manually. These are some of the basic concepts used in Spring Boot.
+
+3. Why do we use Java Reflection in the Container?
+
+Java Reflection allows the Container to inspect classes, fields, and methods at runtime. It helps the Container create objects, read annotations, inject configuration values, and access private fields when necessary.
